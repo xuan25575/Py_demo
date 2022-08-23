@@ -15,3 +15,5 @@ mm 图片  https://everia.club/
 [x6o.py](./x6o.py)
 
 [tuiimg.py](./tuiimg.py)
+
+[tuiimg2.py](./tuiimg2.py) **套图爬取**
