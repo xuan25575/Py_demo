@@ -32,3 +32,7 @@ mm 图片
 5. [nsfwpicx.py](./nsfwpicx.py) 
 
     图片还好，每天都有更新，目前310页。
+    
+6. [wallhaven_pic.py](./wallhaven_pic.py)  多线程
+
+   https://wallhaven.cc/   高清大图的获取
