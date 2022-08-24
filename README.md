@@ -14,7 +14,10 @@ mm 图片  https://everia.club/
 
 1. [Aio_app.py](./Aio_app.py)
 
-2. [x6o.py](./x6o.py)
+2. [x6o.py](./x6o.py) 页面读取
+   
+   [x6o_api.py](./x6o_api.py) 通过api数据读取图片
+   
    不需要翻墙
 
 3. [tuiimg.py](./tuiimg.py)
