@@ -36,3 +36,10 @@ mm 图片
 6. [wallhaven_pic.py](./wallhaven_pic.py)  多线程
 
    https://wallhaven.cc/   高清大图的获取
+   
+   
+ # 视频爬取
+ 
+ 1.[acfun.py](./acfun.py)
+   
+   https://www.acfun.cn/
