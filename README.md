@@ -46,6 +46,9 @@ mm 图片
    
    https://www.acfun.cn/
    
+ 2. [b站视频.py](./b站视频.py)
+ 
+    https://search.bilibili.com/video
    
   # 知乎
   1.[zhihu_login.py](./tools/zhihu_login.py)
